@@ -1,0 +1,52 @@
+				-----------------------------------
+					Git and Github
+				-----------------------------------
+
+
+1. Initiallizing git in a folder
+
+--> git init
+
+2. To make a directory
+
+--> mkdir (foldername)
+
+3. To create a file 
+
+--> touch (filename with extension)
+
+4. To take a file in staging area 
+
+--> git add (filename with extension)
+
+there is another way to stage all file with same extension
+
+--> git add *.(extension)
+
+To stage all files in that directory
+
+-> git add .
+
+5. To check the status of git in that directory
+
+--> git status
+
+6. To commit the staged files 
+
+--> git commit -m "(commit message)"
+
+commit message is to helping to identify and knowing.
+
+7. To see the git log of that directory
+
+--> git log
+
+8. To see the differences of a file before and now condition
+
+--> git diff (filename)
+
+9. To roll back previous commited virsion of file
+
+--> git checkout (checkout)
+
+10. 
